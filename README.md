@@ -30,6 +30,11 @@
 <h4>2. Total Amount vs Age Group</h4>
 ![Age Group vs Amount](https://github.com/user-attachments/assets/25003b4c-bf09-4e30-a882-3c30783c0f24)
 <p><b>From above graphs we can see that most of the buyers are of age group between 26-35 yrs female.</b></p>
+<h4>3. States vs Orders and Amount</h4>
+![States_vs_amount](https://github.com/user-attachments/assets/0b12ac2f-c419-4078-b4cb-9955dffc391a)
+![States_vs_orders](https://github.com/user-attachments/assets/577d787a-0652-44f5-9c80-12f7400430bf)
+<p><b>From above graphs we can see that most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra and Karnataka respectively.</b></p>
+
 
 
 
