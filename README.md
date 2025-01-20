@@ -16,8 +16,10 @@
 <p><b>Version Control:</b> GitHub for tracking and sharing the project.</p>
 <hr>
 <h3>Data Analysis Process</h3>
-<h2>1. Data Preprocessing</h2>
+<h4>1. Data Preprocessing</h4>
 <p>Handling missing values.</p>
 <p>Correcting data types.</p>
 <p>Removing duplicates.</p>
 <p>Cleaning categorical and numerical columns.</p>
+<h4>Exploratory Data Analysis (EDA)</h4>
+<p>Descriptive statistics: Mean, median, mode, range, etc.</p>
