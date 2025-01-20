@@ -25,5 +25,6 @@
 <hr>
 <h3>Observations</h3>
 <h4>1. plotting a bar chart for gender vs total amount </h4>
-![image alt]("https://github.com/Raj96659/Diwali_Festival_Revenue_Boost/blob/main/Screenshot%202025-01-20%20123955.png")
+![Gender](https://github.com/Raj96659/Diwali_Festival_Revenue_Boost/blob/main/Screenshot%202025-01-20%20123955.png)
+
 
