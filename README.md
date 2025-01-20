@@ -27,6 +27,8 @@
 <h4>1. plotting a bar chart for gender vs total amount </h4>
 ![Gender vs Amount](https://github.com/user-attachments/assets/cea90261-77d2-4221-9637-2d5475774812)
 <p><b>From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men.</b></p>
+<h4>2. Total Amount vs Age Group</h4>
+
 
 
 
