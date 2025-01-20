@@ -14,3 +14,10 @@
 <p><b>Libraries Used:</b> pandas, numpy, matplotlib, seaborn. </p>
 <p><b>Data Visualization:</b> Power BI/Tableau (if applicable) or Python-based visualization.</p>
 <p><b>Version Control:</b> GitHub for tracking and sharing the project.</p>
+<hr>
+<h3>Data Analysis Process</h3>
+<h2>1. Data Preprocessing</h2>
+<p>Handling missing values.</p>
+<p>Correcting data types.</p>
+<p>Removing duplicates.</p>
+<p>Cleaning categorical and numerical columns.</p>
