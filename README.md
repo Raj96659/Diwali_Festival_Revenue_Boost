@@ -35,6 +35,10 @@
 <p></p>
 ![States_vs_orders](https://github.com/user-attachments/assets/577d787a-0652-44f5-9c80-12f7400430bf)
 <p><b>From above graphs we can see that most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra and Karnataka respectively.</b></p>
+<h4>4. Maritial Status vs Amount</h4>
+![Marriage vs Amount](https://github.com/user-attachments/assets/8e55c200-c6dd-48bb-8001-10f4ad45785c)
+<p><b>From above graphs we can see that most of the buyers are married (women) and they have high purchasing power.</b></p>
+
 
 
 
