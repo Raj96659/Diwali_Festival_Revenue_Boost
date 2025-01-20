@@ -52,6 +52,11 @@
 
 <p>What do they do?</p>
 <p>These women work in professional fields like IT (Information Technology), Healthcare, and Aviation. These jobs often mean they are financially independent and have a stable income, which influences their purchasing decisions.</p>
+<p>What do they buy?</p>
+<p>During Diwali, they tend to purchase products from these categories:</p>
+<p>Food: Items like sweets, snacks, or festive food hampers for family celebrations.</p>
+<p>Clothing: Traditional outfits like sarees, kurtis, or festive wear for themselves and their families.</p>
+<p>Electronics: Gadgets like phones, laptops, or kitchen appliances, often as gifts or to upgrade their homes.</p>
 
 
 
