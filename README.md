@@ -16,10 +16,14 @@
 <p><b>Version Control:</b> GitHub for tracking and sharing the project.</p>
 <hr>
 <h3>Data Analysis Process</h3>
-<h4>1. Data Preprocessing</h4>
 <p>Handling missing values.</p>
 <p>Correcting data types.</p>
 <p>Removing duplicates.</p>
 <p>Cleaning categorical and numerical columns.</p>
-<h4>Exploratory Data Analysis (EDA)</h4>
+<p>Exploratory Data Analysis (EDA)<p>
 <p>Descriptive statistics: Mean, median, mode, range, etc.</p>
+<hr>
+<h3>Observations</h3>
+<h4>1. plotting a bar chart for gender vs total amount </h4>
+![image alt]("C:\Users\Jay Sunil Sonawane\Pictures\Screenshots\Screenshot 2025-01-20 123955.png")
+
