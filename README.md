@@ -44,8 +44,10 @@
 <h4>6. Product Category vs Amount</h4>
 ![ProductCategory vs Amount](https://github.com/user-attachments/assets/e2fd7156-83ee-4882-a696-1fb91d31f63c)
 <p><b>From above graphs we can see that most of the sold products are from Food, Clothing and Electronics category</b></p>
+<hr>
 <h3>Conclusion</h3>
 <p>Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, employed in IT, Healthcare, or Aviation, are more inclined to purchase products in the Food, Clothing, and Electronics categories.</p>
+<hr>
 <h4>Explanation</h4>
 <p>Who are the customers?</p>
 <p></p>Married women aged 26-35 years living in Uttar Pradesh, Maharashtra, and Karnataka.</p>
