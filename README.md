@@ -25,5 +25,5 @@
 <hr>
 <h3>Observations</h3>
 <h4>1. plotting a bar chart for gender vs total amount </h4>
-![image alt]("C:\Users\Jay Sunil Sonawane\Pictures\Screenshots\Screenshot 2025-01-20 123955.png")
+![image alt]("Screenshot 2025-01-20 123955.png")
 
