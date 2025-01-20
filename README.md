@@ -28,6 +28,8 @@
 ![Gender vs Amount](https://github.com/user-attachments/assets/cea90261-77d2-4221-9637-2d5475774812)
 <p><b>From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men.</b></p>
 <h4>2. Total Amount vs Age Group</h4>
+![Age Group vs Amount](https://github.com/user-attachments/assets/25003b4c-bf09-4e30-a882-3c30783c0f24)
+<p><b>From above graphs we can see that most of the buyers are of age group between 26-35 yrs female.</b></p>
 
 
 
