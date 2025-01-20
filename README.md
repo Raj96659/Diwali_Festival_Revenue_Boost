@@ -25,7 +25,8 @@
 <hr>
 <h3>Observations</h3>
 <h4>1. plotting a bar chart for gender vs total amount </h4>
-![Gender vs Amount](https://github.com/user-attachments/assets/0c0c07ac-8ec4-4b34-9bb7-b37f35a6e9f8)
+![Screenshot 2025-01-20 123955](https://github.com/user-attachments/assets/997da0d4-0b8d-40bc-9dc0-1d7cad1e9d2f)
+
 
 
 
