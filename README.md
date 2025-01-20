@@ -8,3 +8,9 @@
 <p>Understanding customer purchasing behavior during Diwali.</p>
 <p>Identifying key drivers of sales and customer satisfaction.</p>
 <p>Providing actionable insights for improving customer retention and revenue growth.</p>
+<hr>
+<h3>Tools and Technologies</h3>
+<p><b>Programming Langauge:</b> Python</p>
+<p><b>Libraries Used:</b> pandas, numpy, matplotlib, seaborn. </p>
+<p><b>Data Visualization:</b> Power BI/Tableau (if applicable) or Python-based visualization.</p>
+<p><b>Version Control:</b> GitHub for tracking and sharing the project.</p>
