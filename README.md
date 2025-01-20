@@ -38,6 +38,14 @@
 <h4>4. Maritial Status vs Amount</h4>
 ![Marriage vs Amount](https://github.com/user-attachments/assets/8e55c200-c6dd-48bb-8001-10f4ad45785c)
 <p><b>From above graphs we can see that most of the buyers are married (women) and they have high purchasing power.</b></p>
+<h4>5. Occupation vs Amount</h4>
+![Occupation_vs_Amount](https://github.com/user-attachments/assets/96b898b9-a354-42ec-b512-77d442f074c7)
+<p><b>From above graphs we can see that most of the buyers are working in IT, Healthcare and Aviation sector.</b></p>
+<h4>6. Product Category vs Amount</h4>
+![ProductCategory vs Amount](https://github.com/user-attachments/assets/e2fd7156-83ee-4882-a696-1fb91d31f63c)
+<p><b>From above graphs we can see that most of the sold products are from Food, Clothing and Electronics category</b></p>
+
+
 
 
 
